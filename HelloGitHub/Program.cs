@@ -10,7 +10,6 @@ namespace HelloGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
-            Console.WriteLine("This was created in a local branch, merged with the master, and then the testbranch deleted.");
         }
     }
 }
